@@ -6,7 +6,7 @@ API_KEY = '8dc2a7b590f6f9b596bb9c4327dd695e'
 layout = [
     [sg.Input(key='-CITY_NAME-'), sg.Button('Ok')],
     [sg.Column([
-        [sg.Text('', key='-TEXT1-'), sg.Text('', key='-TEXT2-')]],  # Coloque os Texts dentro de uma lista
+        [sg.Text('', key='-TEXT1-'), sg.Text('', key='-TEXT2-')]],
         justification='center')
     ]
 ]
