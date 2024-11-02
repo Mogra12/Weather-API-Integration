@@ -1,5 +1,5 @@
-import requests
 import PySimpleGUI as sg
+import requests
 
 API_KEY = '8dc2a7b590f6f9b596bb9c4327dd695e'
 
